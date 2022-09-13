@@ -15,8 +15,9 @@ const App =  ()=> {
     <div className="container">
 
     <Bio/>
-    </div>
     <Gallery/>
+    </div>
+    
     </Fragment>
   );
 }
